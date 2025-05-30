@@ -1,0 +1,30 @@
+{
+  "name": "NichePlan - Professional Estate Sketching",
+  "short_name": "NichePlan",
+  "description": "Professional WebGPU-powered estate sketching PWA with sub-15ms latency, 99.99% GIA accuracy, Apple Pencil support, and advanced gesture recognition",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#2563eb",
+  "background_color": "#f8fafc",
+  "id": "/",
+  "scope": "/",
+  "lang": "en-GB",
+  "dir": "ltr",
+  "prefer_related_applications": false,
+  "categories": ["productivity", "business", "utilities", "real estate", "design"],
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
